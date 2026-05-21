@@ -1,6 +1,8 @@
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG9xOTZ5M201Z3RrM205Ym4xZ3ZybGNxNGNwYXRtN3kyM21jNnJsdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="280">
+# lucasdetoledo4
 
-## Hi, I'm Lucas Barreto! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30">
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG9xOTZ5M201Z3RrM205Ym4xZ3ZybGNxNGNwYXRtN3kyM21jNnJsdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="200">
+
+### Hi, I'm Lucas Barreto! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30">
 
 Software Engineer at [gemineers GmbH](https://gemineers.com) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"><br/>
 Based in Florianópolis 🇧🇷
