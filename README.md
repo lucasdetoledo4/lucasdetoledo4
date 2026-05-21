@@ -1,6 +1,6 @@
 # lucasdetoledo4
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG9xOTZ5M201Z3RrM205Ym4xZ3ZybGNxNGNwYXRtN3kyM21jNnJsdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="200">
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG9xOTZ5M201Z3RrM205Ym4xZ3ZybGNxNGNwYXRtN3kyM21jNnJsdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="240">
 
 ### Hi, I'm Lucas Barreto! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30">
 
@@ -10,7 +10,7 @@ Based in Florianópolis 🇧🇷
 [![Linkedin: lucasdetoledo4](https://img.shields.io/badge/lucasdetoledo4-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucasdetoledo4/)
 [![GitHub Lucas](https://img.shields.io/github/followers/lucasdetoledo4?label=follow&style=social)](https://github.com/lucasdetoledo4)
 
-<br clear="right"/>
+
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
