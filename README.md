@@ -2,7 +2,7 @@
 
 <h2> Hi, I'm Lucas Barreto also known as toledo! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG9xOTZ5M201Z3RrM205Ym4xZ3ZybGNxNGNwYXRtN3kyM21jNnJsdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="230">
-<p></br>Software Engineer at <a href="https://gemineers.com">gemineers GmbH</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Based in Florianópolis 🇧🇷
+<p></br>Software Engineer at <a href="https://gemineers.com">gemineers GmbH</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="15"> Based in Florianópolis 🇧🇷
 </em></p>
 
 [![Linkedin: lucasdetoledo4](https://img.shields.io/badge/lucasdetoledo4-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasdetoledo4/)](https://www.linkedin.com/in/lucasdetoledo4/)
