@@ -2,7 +2,7 @@
 <tr style="border:none;">
 <td width="65%" valign="top" style="border:none;">
 
-<h2>Hi, I'm Lucas Barreto also known as toledo! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40"></h2>
+<h2>Hi, I'm Lucas Barreto! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"></h2>
 
 Software Engineer at <a href="https://gemineers.com">gemineers GmbH</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"><br/>
 Based in Florianópolis 🇧🇷
